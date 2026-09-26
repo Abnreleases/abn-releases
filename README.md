@@ -24,6 +24,13 @@ Trois packs : **ABN Caisse**, **ABN Commerce** et **ABN Multi-postes**, chacun *
 machine** affiché dans `Paramètres › Licence`, nous vous renvoyons un code d'activation à coller au
 même endroit. Changer de pack ou renouveler : un nouveau code remplace l'ancien, vos données restent.
 
+## ABN Mobile — le magasin sur votre téléphone
+
+Depuis la version 1.1 : ventes du jour, 7 derniers jours, points à surveiller et clôtures Z avec leur
+écart de caisse, sur votre téléphone, même de chez vous. On relie un téléphone depuis
+`Paramètres › Téléphones` avec un QR code, puis un code à 6 chiffres vérifié sur les deux écrans.
+Compris pendant l'essai, puis en **option de n'importe quel pack**, sous forme d'abonnement.
+
 ## Mises à jour
 
 Une fois installé, ABN se met à jour tout seul depuis ce dépôt : il télécharge la nouvelle version en
@@ -34,7 +41,9 @@ est faite avant toute mise à jour. `Paramètres › Aide & à propos` permet de
 
 Elles restent **sur l'ordinateur du magasin** : ABN fonctionne sans internet. Les sauvegardes sont
 automatiques (à chaque clôture de caisse, chaque jour, avant chaque mise à jour) et peuvent être
-copiées sur une clé USB. Rien n'est envoyé en ligne.
+copiées sur une clé USB. Rien n'est envoyé en ligne — sauf si vous activez **ABN Mobile** : les
+chiffres sont alors **chiffrés sur le PC** avant l'envoi et lisibles seulement par vos téléphones
+autorisés ; ni le service en ligne ni l'éditeur ne peuvent les lire.
 
 ## Assistance
 
