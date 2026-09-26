@@ -15,10 +15,14 @@ le fichier `ABN-Setup-<version>.exe`.
 
 ## Essai et licence
 
-ABN fonctionne **30 jours sans licence**, avec toutes ses fonctions. Passé ce délai, il reste
+ABN fonctionne **7 jours sans licence**, avec toutes ses fonctions. Passé ce délai, il reste
 utilisable en **mode consultation** : vous continuez à lire, imprimer, exporter et sauvegarder vos
-données, mais les nouvelles ventes demandent une licence. La licence est **perpétuelle** et liée à
-l'ordinateur : envoyez-nous le **code machine** affiché dans `Paramètres › Licence`.
+données, mais les nouvelles ventes demandent une licence.
+
+Trois packs : **ABN Caisse**, **ABN Commerce** et **ABN Multi-postes**, chacun **à vie** ou pour une
+**durée** (mois, trimestre, année). La licence est liée à l'ordinateur : envoyez-nous le **code
+machine** affiché dans `Paramètres › Licence`, nous vous renvoyons un code d'activation à coller au
+même endroit. Changer de pack ou renouveler : un nouveau code remplace l'ancien, vos données restent.
 
 ## Mises à jour
 
