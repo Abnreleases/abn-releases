@@ -31,6 +31,12 @@ Depuis la version 1.1 : ventes du jour, 7 derniers jours, points à surveiller e
 `Paramètres › Téléphones` avec un QR code, puis un code à 6 chiffres vérifié sur les deux écrans.
 Compris pendant l'essai, puis en **option de n'importe quel pack**, sous forme d'abonnement.
 
+**Depuis la version 1.2 — réceptions par téléphone** (pack ABN Commerce) : à l'arrivée d'une livraison,
+scannez les articles ou photographiez la facture avec ABN Mobile. La photo est lue sur le téléphone, sans
+rien deviner : les lignes illisibles ou à vérifier sont signalées. Sur le PC, ABN reconnaît les articles
+(et retient les noms de chaque fournisseur), propose les nouveaux prix de vente qui gardent votre marge, puis
+crée le bon de réception après votre accord.
+
 ## Mises à jour
 
 Une fois installé, ABN se met à jour tout seul depuis ce dépôt : il télécharge la nouvelle version en
