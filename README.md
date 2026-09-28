@@ -28,12 +28,18 @@ même endroit. Changer de pack ou renouveler : un nouveau code remplace l'ancien
 
 Depuis la version 1.1 : ventes du jour, 7 derniers jours, points à surveiller et clôtures Z avec leur
 écart de caisse, sur votre téléphone, même de chez vous. On relie un téléphone depuis
-`Paramètres › Téléphones` avec un QR code, puis un code à 6 chiffres vérifié sur les deux écrans.
-Compris pendant l'essai, puis en **option de n'importe quel pack**, sous forme d'abonnement.
+`Paramètres › Téléphones` : dans ABN Mobile, **« Scanner le QR code »**, puis un code à 6 chiffres
+vérifié sur les deux écrans. Compris pendant l'essai, puis en **option de n'importe quel pack**, sous
+forme d'abonnement.
+
+**Depuis la version 1.2.1 — en direct** : tant qu'ABN Mobile est ouvert, chaque vente, mouvement de stock
+ou clôture apparaît sur le téléphone en quelques secondes ; si le PC du magasin est éteint, le téléphone
+le dit.
 
 **Depuis la version 1.2 — réceptions par téléphone** (pack ABN Commerce) : à l'arrivée d'une livraison,
 scannez les articles ou photographiez la facture avec ABN Mobile. La photo est lue sur le téléphone, sans
-rien deviner : les lignes illisibles ou à vérifier sont signalées. Sur le PC, ABN reconnaît les articles
+rien deviner : les lignes illisibles ou à vérifier sont signalées, et les lignes sont comparées au total de
+la facture pour qu'aucun article ne manque. Sur le PC, ABN reconnaît les articles
 (et retient les noms de chaque fournisseur), propose les nouveaux prix de vente qui gardent votre marge, puis
 crée le bon de réception après votre accord.
 
