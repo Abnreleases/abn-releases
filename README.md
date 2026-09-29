@@ -1,12 +1,15 @@
-# ABN Gestion — versions installables
+# SOLVA Gestion — versions installables
 
-Ce dépôt ne contient **aucun code source** : uniquement les versions installables d'ABN Gestion, le
+> **ABN Gestion s'appelle désormais SOLVA Gestion** (version 1.2.2). Même logiciel, mêmes données :
+> une installation existante se met à jour toute seule et garde sa base, sa licence et ses téléphones.
+
+Ce dépôt ne contient **aucun code source** : uniquement les versions installables de SOLVA Gestion, le
 logiciel de caisse et de gestion commerciale pour les commerces algériens (détail et gros).
 
 ## Télécharger
 
 👉 **[Dernière version](https://github.com/Abnreleases/abn-releases/releases/latest)** — téléchargez
-le fichier `ABN-Setup-<version>.exe`.
+le fichier `SOLVA-Setup-<version>.exe`.
 
 - Windows 10 64 bits ou plus récent, 4 Go de mémoire, 20 Go d'espace libre.
 - Windows affiche un avertissement **« Windows a protégé votre ordinateur »** : le logiciel n'est pas
@@ -15,45 +18,45 @@ le fichier `ABN-Setup-<version>.exe`.
 
 ## Essai et licence
 
-ABN fonctionne **7 jours sans licence**, avec toutes ses fonctions. Passé ce délai, il reste
+SOLVA fonctionne **7 jours sans licence**, avec toutes ses fonctions. Passé ce délai, il reste
 utilisable en **mode consultation** : vous continuez à lire, imprimer, exporter et sauvegarder vos
 données, mais les nouvelles ventes demandent une licence.
 
-Trois packs : **ABN Caisse**, **ABN Commerce** et **ABN Multi-postes**, chacun **à vie** ou pour une
+Trois packs : **SOLVA Caisse**, **SOLVA Commerce** et **SOLVA Multi-postes**, chacun **à vie** ou pour une
 **durée** (mois, trimestre, année). La licence est liée à l'ordinateur : envoyez-nous le **code
 machine** affiché dans `Paramètres › Licence`, nous vous renvoyons un code d'activation à coller au
 même endroit. Changer de pack ou renouveler : un nouveau code remplace l'ancien, vos données restent.
 
-## ABN Mobile — le magasin sur votre téléphone
+## SOLVA Mobile — le magasin sur votre téléphone
 
 Depuis la version 1.1 : ventes du jour, 7 derniers jours, points à surveiller et clôtures Z avec leur
 écart de caisse, sur votre téléphone, même de chez vous. On relie un téléphone depuis
-`Paramètres › Téléphones` : dans ABN Mobile, **« Scanner le QR code »**, puis un code à 6 chiffres
+`Paramètres › Téléphones` : dans SOLVA Mobile, **« Scanner le QR code »**, puis un code à 6 chiffres
 vérifié sur les deux écrans. Compris pendant l'essai, puis en **option de n'importe quel pack**, sous
-forme d'abonnement.
+forme d'abonnement. Un téléphone **retiré** est supprimé : il n'apparaît plus dans la liste.
 
-**Depuis la version 1.2.1 — en direct** : tant qu'ABN Mobile est ouvert, chaque vente, mouvement de stock
+**Depuis la version 1.2.1 — en direct** : tant que SOLVA Mobile est ouvert, chaque vente, mouvement de stock
 ou clôture apparaît sur le téléphone en quelques secondes ; si le PC du magasin est éteint, le téléphone
 le dit.
 
-**Depuis la version 1.2 — réceptions par téléphone** (pack ABN Commerce) : à l'arrivée d'une livraison,
-scannez les articles ou photographiez la facture avec ABN Mobile. La photo est lue sur le téléphone, sans
+**Depuis la version 1.2 — réceptions par téléphone** (pack SOLVA Commerce) : à l'arrivée d'une livraison,
+scannez les articles ou photographiez la facture avec SOLVA Mobile. La photo est lue sur le téléphone, sans
 rien deviner : les lignes illisibles ou à vérifier sont signalées, et les lignes sont comparées au total de
-la facture pour qu'aucun article ne manque. Sur le PC, ABN reconnaît les articles
+la facture pour qu'aucun article ne manque. Sur le PC, SOLVA reconnaît les articles
 (et retient les noms de chaque fournisseur), propose les nouveaux prix de vente qui gardent votre marge, puis
 crée le bon de réception après votre accord.
 
 ## Mises à jour
 
-Une fois installé, ABN se met à jour tout seul depuis ce dépôt : il télécharge la nouvelle version en
+Une fois installé, SOLVA se met à jour tout seul depuis ce dépôt : il télécharge la nouvelle version en
 arrière-plan et l'installe **à la fermeture du logiciel**, jamais pendant une vente. Une sauvegarde
 est faite avant toute mise à jour. `Paramètres › Aide & à propos` permet de vérifier manuellement.
 
 ## Vos données
 
-Elles restent **sur l'ordinateur du magasin** : ABN fonctionne sans internet. Les sauvegardes sont
+Elles restent **sur l'ordinateur du magasin** : SOLVA fonctionne sans internet. Les sauvegardes sont
 automatiques (à chaque clôture de caisse, chaque jour, avant chaque mise à jour) et peuvent être
-copiées sur une clé USB. Rien n'est envoyé en ligne — sauf si vous activez **ABN Mobile** : les
+copiées sur une clé USB. Rien n'est envoyé en ligne — sauf si vous activez **SOLVA Mobile** : les
 chiffres sont alors **chiffrés sur le PC** avant l'envoi et lisibles seulement par vos téléphones
 autorisés ; ni le service en ligne ni l'éditeur ne peuvent les lire.
 
