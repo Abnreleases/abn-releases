@@ -35,6 +35,11 @@ Depuis la version 1.1 : ventes du jour, 7 derniers jours, points à surveiller e
 vérifié sur les deux écrans. Compris pendant l'essai, puis en **option de n'importe quel pack**, sous
 forme d'abonnement. Un téléphone **retiré** est supprimé : il n'apparaît plus dans la liste.
 
+**Depuis la version 1.3 — le magasin en détail** : un menu et des pages, les ventes de n'importe quelle
+période (jusqu'à trois mois), l'activité du magasin jour par jour, le stock à surveiller avec les jours de
+vente qui restent, et les clients — ce qu'ils doivent, ce qu'ils achètent, un appel ou un WhatsApp en un
+geste. Le PC du magasin doit être en version 1.3.
+
 **Depuis la version 1.2.1 — en direct** : tant que SOLVA Mobile est ouvert, chaque vente, mouvement de stock
 ou clôture apparaît sur le téléphone en quelques secondes ; si le PC du magasin est éteint, le téléphone
 le dit.
