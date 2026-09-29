@@ -27,6 +27,21 @@ Trois packs : **SOLVA Caisse**, **SOLVA Commerce** et **SOLVA Multi-postes**, ch
 machine** affiché dans `Paramètres › Licence`, nous vous renvoyons un code d'activation à coller au
 même endroit. Changer de pack ou renouveler : un nouveau code remplace l'ancien, vos données restent.
 
+### Prix (en dinars, prix nets, sans taxe en plus)
+
+| Pack | 1 mois | 3 mois | 6 mois | 1 an | À vie |
+|---|---:|---:|---:|---:|---:|
+| **SOLVA Caisse** — supérette, alimentation, détail | 1 800 | 4 500 | 7 500 | 12 000 | 25 000 |
+| **SOLVA Commerce** — + factures, achats, trésorerie, inventaires | 2 500 | 6 500 | 11 000 | 18 000 | 39 000 |
+| **SOLVA Multi-postes** — + postes caisse en réseau (1 poste caisse inclus) | 3 500 | 9 000 | 15 500 | 26 000 | 59 000 |
+| Poste caisse en plus | 600 | 1 500 | 2 500 | 4 000 | 10 000 |
+| **SOLVA Mobile** (abonnement, avec n'importe quel pack) | 1 000 | 2 700 | 5 000 | 9 000 | — |
+
+- **À vie** : mises à jour et assistance incluses la première année, puis 5 000 / 8 000 / 12 000 DA par an
+  (Caisse / Commerce / Multi-postes), si vous le souhaitez. Le logiciel continue de fonctionner sans.
+- 🎉 **Offre de lancement : −30 % sur la licence** pour les **20 premiers magasins**, jusqu'au 31/12/2026.
+- Depuis la version 1.3.1, `Paramètres › Licence` affiche ces prix et le total avant l'envoi de votre demande.
+
 ## SOLVA Mobile — le magasin sur votre téléphone
 
 Depuis la version 1.1 : ventes du jour, 7 derniers jours, points à surveiller et clôtures Z avec leur
