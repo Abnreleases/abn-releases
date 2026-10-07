@@ -1,8 +1,7 @@
 # ABN Gestion — versions installables
 
-> **SOLVA Gestion redevient ABN Gestion** (version 1.3.2). Même logiciel, mêmes données :
-> une installation existante se met à jour toute seule et garde sa base, sa licence, ses téléphones
-> et ses sauvegardes (celles nommées `SOLVA-…` restent dans la liste).
+> **Seule la dernière version est téléchargeable.** Une installation existante se met à jour toute
+> seule et garde sa base, sa licence, ses téléphones et ses sauvegardes.
 
 Ce dépôt ne contient **aucun code source** : uniquement les versions installables d'ABN Gestion, le
 logiciel de caisse et de gestion commerciale pour les commerces algériens (détail et gros).
@@ -73,11 +72,31 @@ Une fois installé, ABN se met à jour tout seul depuis ce dépôt : il téléch
 arrière-plan et l'installe **à la fermeture du logiciel**, jamais pendant une vente. Une sauvegarde
 est faite avant toute mise à jour. `Paramètres › Aide & à propos` permet de vérifier manuellement.
 
+## Versions précédentes
+
+Les anciennes versions ne sont plus proposées au téléchargement : installez toujours la dernière, qui
+reprend tout ce qui suit.
+
+| Version | Date | Nouveautés |
+|---|---|---|
+| 1.3.4 | 2026-10-07 | Mises à jour plus discrètes ; seule la dernière version est téléchargeable |
+| 1.3.3 | 2026-10-05 | Protection de la licence, 60 jours hors ligne, mises à jour de sécurité automatiques |
+| 1.3.2 | 2026-09-30 | SOLVA redevient ABN |
+| 1.3.1 | 2026-09-29 | Nouveau tableau de bord, prix des packs dans `Paramètres › Licence` (sous le nom SOLVA) |
+| 1.3.0 | 2026-09-29 | ABN Mobile : le magasin en détail sur le téléphone (sous le nom SOLVA) |
+| 1.2.2 | 2026-09-29 | ABN devient SOLVA ; un téléphone retiré est supprimé |
+| 1.2.1 | 2026-09-28 | ABN Mobile en direct, nouveau lecteur de factures |
+| 1.2.0 | 2026-09-27 | Réceptions par téléphone |
+| 1.1.0 | 2026-09-26 | ABN Mobile |
+| 1.0.0 – 1.0.1 | 2026-09-26 | Première version complète : packs, licence, essai |
+| 0.2.0 – 0.2.4 | 2026-09-24 | Versions pilotes |
+
 ## Vos données
 
 Elles restent **sur l'ordinateur du magasin** : ABN fonctionne sans internet. Les sauvegardes sont
 automatiques (à chaque clôture de caisse, chaque jour, avant chaque mise à jour) et peuvent être
-copiées sur une clé USB. Rien n'est envoyé en ligne — sauf si vous activez **ABN Mobile** : les
+copiées sur une clé USB. Aucune donnée du magasin n'est envoyée en ligne : seule la vérification de la
+licence transmet le numéro de licence et le code machine. Si vous activez **ABN Mobile**, les
 chiffres sont alors **chiffrés sur le PC** avant l'envoi et lisibles seulement par vos téléphones
 autorisés ; ni le service en ligne ni l'éditeur ne peuvent les lire.
 
