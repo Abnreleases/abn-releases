@@ -1,12 +1,12 @@
 # ABN Gestion — anciennes versions
 
-> **ABN Gestion a déménagé sur [abnsuite.com](https://abnsuite.com).** La version 2.0 et les suivantes
+> **ABN Gestion a déménagé sur [gestion.abnsuite.com](https://gestion.abnsuite.com).** La version 2.0 et les suivantes
 > se téléchargent uniquement là-bas. Ce dépôt n'est plus mis à jour et ne propose plus aucun fichier.
 
 ## Vous avez une version 1.x installée
 
 Les versions 1.x ne reçoivent pas la version 2.0 automatiquement. Pour passer en 2.0, demandez le
-téléchargement sur **[abnsuite.com](https://abnsuite.com)** et installez-la par-dessus votre version
+téléchargement sur **[gestion.abnsuite.com](https://gestion.abnsuite.com)** et installez-la par-dessus votre version
 actuelle : la base du magasin, la licence, les téléphones reliés, les réglages et les sauvegardes
 restent tels quels. Une connexion internet est nécessaire au premier démarrage.
 
